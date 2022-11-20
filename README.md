@@ -2,23 +2,17 @@
 
 1. C/C++ 语言基础 => [tutorial](https://liupj.top/2021/08/11/c-toturial/)
 
-2. 计算机系统基础（理论课）by 袁春风（NJU）=> [mooc](www.icourse163.org)
+2. 计算机系统基础（理论课）by 袁春风（NJU）
+
+    - [上](https://www.icourse163.org/course/NJU-1001625001)、[中](https://www.icourse163.org/course/NJU-1001964032)、[下](https://www.icourse163.org/course/NJU-1002532004)
+
+    - [又](https://www.icourse163.org/course/NJU-1449521162)、[还](https://www.icourse163.org/course/NJU-1464941173)
 
 3. 本课程
 
     - [website](http://jyywiki.cn/ICS/2021/)
 
     - [programmingAssignment](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/)
-
-        - [ ] PA0：一些预备知识和准备工作
-
-        - [ ] PA1：简易调试器、加法器
-
-        - [ ] PA2：程序执行
-
-        - [ ] PA3：cache 与 存储管理
-
-        - [ ] PA4：异常 与 I/O
 
 4. 操作系统 by 将炎岩（NJU）
 
