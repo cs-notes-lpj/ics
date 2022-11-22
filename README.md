@@ -1,3 +1,6 @@
+
+**记得在课程结束后，回过头再来看** [这些曾经一知半解的问题](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/why.html#%E4%B8%80%E7%9F%A5%E5%8D%8A%E8%A7%A3) **是否得到解决** ？
+
 ### 学习步骤
 
 0. [crashCourse|计算机入门课](https://liupj.top/2022/10/24/crash-course-cs/)
@@ -39,4 +42,10 @@
 让计算机执行程序的过程，在我们的眼中不再是黑盒
 
 ![image-20220510122321626](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220510122321626.png)
+
+### 选定的指令集
+
+riscv32(64)
+
+这是一款经典的指令集，并且对于像我这样的新手来说，这款指令集在实现难度上会比较友好 :)
 
