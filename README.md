@@ -3,7 +3,7 @@
 
 ### 学习步骤
 
-0. [crashCourse|计算机入门课](https://liupj.top/2022/10/24/crash-course-cs/)
+0. [crashCourse|计算机入门课](https://www.youtube.com/watch?v=tpIctyqH29Q)
 
 1. C/C++ 语言基础 => [tutorial](https://liupj.top/2021/08/11/c-toturial/)
 
