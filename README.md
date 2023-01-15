@@ -27,7 +27,7 @@
 
 <img src="https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220405190312821.png" width=400 />
 
-同理，模拟器也是一个程序，它的目标在于：用软件模拟计算机硬件的功能进而支持在其上层运行其它程序
+同理，模拟器也是一个程序，它的目标在于：用软件模拟计算机硬件的功能（进而支持在其上层运行其它程序）
 
 知名软件 [virtualbox](https://www.virtualbox.org/) 和 [vmware](https://www.vmware.com/) 均是能够模拟 pc 主机的软件，我们可以在模拟出的 pc 主机上运行操作系统
 
