@@ -9,6 +9,8 @@
 
 - [C/C++ 语法基础](https://liupj.top/2021/08/11/c-toturial/)
 
+- [dev-c-on-linux](https://cs-notes-lpj.github.io/dev-c-on-linux)
+
 ### 选看
 
 - 计算机系统基础（理论课）by 袁春风（NJU）
