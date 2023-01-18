@@ -13,13 +13,13 @@
 
 ### 选看
 
+- C 语言 by 翁恺（ZJU）on [MOOC](https://www.icourse163.org/)
+
 - 计算机系统基础（理论课）by 袁春风（NJU）
 
     - [上](https://www.icourse163.org/course/NJU-1001625001)、[中](https://www.icourse163.org/course/NJU-1001964032)、[下](https://www.icourse163.org/course/NJU-1002532004)
 
     - [又](https://www.icourse163.org/course/NJU-1449521162)、[还](https://www.icourse163.org/course/NJU-1464941173)
-
-- C 语言 by 翁恺（ZJU）on [MOOC](https://www.icourse163.org/)
 
 ### 背景知识
 
